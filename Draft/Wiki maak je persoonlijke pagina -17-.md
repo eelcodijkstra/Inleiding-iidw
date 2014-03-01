@@ -17,3 +17,10 @@ Daarnaast kun je hier nog andere zaken noemen die je met je mede-leerlingen (en 
 * wat je hobby's zijn;
 * waarom je meedoet aan ICT in de Wolken: wat je hiermee wilt bereiken;
 
+
+Voor het opmaken van je persoonlijke pagina maak je gebruik van de wiki-opmaak. Deze vind je bijvoorbeeld op XXX. Bestudeer in elk geval de volgende constructies, en probeer deze toe te passen in je persoonlijke pagina:
+
+* indeling in hoofdstukken, secties e.d.
+* opsomming van elementen (zoals hier)
+* 
+
