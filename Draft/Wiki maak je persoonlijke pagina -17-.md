@@ -24,3 +24,4 @@ Voor het opmaken van je persoonlijke pagina maak je gebruik van de wiki-opmaak. 
 * opsomming van elementen (zoals hier)
 * 
 
+Een handleiding voor het opmaken van een wiki-pagina vind je via de eerste pagina van de wiki:
